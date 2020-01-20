@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738611452988",
+    "firebase_url": "https://groomlyfe.firebaseio.com",
+    "project_id": "groomlyfe",
+    "storage_bucket": "groomlyfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738611452988:android:8894d6cedd709c9e0c3739",
+        "android_client_info": {
+          "package_name": "com.dev.groomlyfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738611452988-d4k3k2vbkbqe9t31j23ln6didps9rtcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "4ec42ef4e4b09c54e43225442864f8d1815c805f"
+          }
+        },
+        {
+          "client_id": "738611452988-5h4k64vs2lloj8lauv6co3gm2uod38ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwv59d_dSyqyuqtMUoDIf4LJBg43JijVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738611452988-5h4k64vs2lloj8lauv6co3gm2uod38ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
